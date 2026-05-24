@@ -42,6 +42,7 @@ A full-stack e-commerce marketplace for buying and selling sacrificial animals. 
 A dynamic news aggregator built on the Next.js App Router utilizing Server-Side Rendering (SSR) for optimal performance. Features a live breaking news ticker and category-based content filtering.
 
 ---
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaziontor7&show_icons=true&theme=radical&hide_border=true" alt="Kazi's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=kaziontor7&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
