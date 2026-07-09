@@ -108,6 +108,7 @@ My latest project is **[EverTrade](https://evertradeclient.vercel.app)** — a m
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziontor7&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&stroke=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziontor7&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</p>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%" alt="Footer" />
