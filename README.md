@@ -1,88 +1,114 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20I'm%20Kazi%20Ontor&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=51&descAlign=62" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=180&section=header&text=Kazi%20Ontor&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=52&descAlign=50&fontColor=e6edf3" width="100%" alt="Banner" />
 
 <p align="center">
   <a href="https://kaziontor.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kaziontor.me-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/kaziontor.me-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/kazi-ontor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:kaziontor7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+I build full-stack web apps with React, Next.js, and Express.js. Economics student at the University of Chittagong — picked up coding in early 2026 and got hooked.
 
-I'm a full-stack developer who builds web apps with React, Next.js, and Express.js. Economics student at the University of Chittagong — picked up coding in early 2026 and got hooked.
+My latest project is **[EverTrade](https://evertradeclient.vercel.app)** — a marketplace with Stripe payments, role-based dashboards, and stateless JWT auth across a decoupled client-server architecture.
 
-- 🚀 **Latest ship:** [EverTrade](https://evertradeclient.vercel.app) — a full-stack marketplace with Stripe payments & role-based dashboards
-- 💻 **Tech Stack:** JavaScript (ES6+), React, Next.js, Node.js, Express.js, MongoDB
-- 🔐 **Proud of:** Implementing stateless JWKS token verification across a decoupled client-server architecture
-- 📫 **Reach me at:** [kaziontor7@gmail.com](mailto:kaziontor7@gmail.com)
+<br/>
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel,figma&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+<br/>
+
+## Featured Projects
 
 <table>
   <tr>
-    <td><b>Frontend</b></td>
-    <td>React, Next.js, Tailwind CSS, HeroUI, DaisyUI, Framer Motion, GSAP</td>
+    <td width="50%">
+      <h3 align="center">EverTrade</h3>
+      <p align="center">
+        Full-stack marketplace for second-hand tech. Stripe payments, role-based dashboards for buyers/sellers/admins, stateless JWT auth on a custom Express.js backend.
+      </p>
+      <p align="center">
+        <a href="https://evertradeclient.vercel.app">Live</a> · 
+        <a href="https://github.com/kaziontor7/EverTrade_Client">Client</a> · 
+        <a href="https://github.com/kaziontor7/EverTrade_Server">Server</a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Doc-Appoint</h3>
+      <p align="center">
+        Medical appointment booking platform. Interactive doctor discovery, real-time slot booking, and JWKS token verification on a dedicated Express.js backend.
+      </p>
+      <p align="center">
+        <a href="https://doc-appoint-five.vercel.app">Live</a> · 
+        <a href="https://github.com/kaziontor7/Doc-Appoint">Client</a> · 
+        <a href="https://github.com/kaziontor7/Doc-Appoint-Server">Server</a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens" />
+      </p>
+    </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td>Node.js, Express.js, MongoDB, REST APIs</td>
-  </tr>
-  <tr>
-    <td><b>Auth & Payments</b></td>
-    <td>JWT, JWKS, Better Auth, Stripe</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git, GitHub, Vercel, Figma</td>
+    <td width="50%">
+      <h3 align="center">Qurbani Hat</h3>
+      <p align="center">
+        E-commerce marketplace for livestock during Eid al-Adha. Dynamic filtering, secure auth, and an integrated checkout system.
+      </p>
+      <p align="center">
+        <a href="https://qurbani-hat-gamma.vercel.app">Live</a> · 
+        <a href="https://github.com/kaziontor7/Qurbani-Hat">Code</a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/HeroUI-000?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Keen-Keeper</h3>
+      <p align="center">
+        Personal CRM to track friendships. Log interactions on an interactive timeline with Recharts data visualization. First Vite + React 19 project.
+      </p>
+      <p align="center">
+        <a href="https://keep-keen.vercel.app">Live</a> · 
+        <a href="https://github.com/kaziontor7/Keen-Keeper">Code</a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_19-000?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-### 1. EverTrade — Premium Second-Hand Marketplace
-> A full-stack marketplace for buying and selling second-hand tech and lifestyle items. Features role-based dashboards for buyers, sellers, and admins, secure Stripe payment integration, and stateless JWT authentication on a custom Express.js backend.
-
-🔗 [Live Demo](https://evertradeclient.vercel.app) · [Client Repo](https://github.com/kaziontor7/EverTrade_Client) · [Server Repo](https://github.com/kaziontor7/EverTrade_Server)
-
-`Next.js` `Express.js` `MongoDB` `Stripe` `Tailwind CSS` `Better Auth` `Framer Motion`
-
----
-
-### 2. Doc-Appoint — Medical Appointment Booking Platform
-> A full-stack medical appointment booking platform. Features an interactive doctor discovery dashboard, real-time slot booking, and a highly secure stateless JWT authentication system utilizing JWKS tokens on a custom Express.js backend.
-
-🔗 [Live Demo](https://doc-appoint-five.vercel.app) · [Client Repo](https://github.com/kaziontor7/Doc-Appoint) · [Server Repo](https://github.com/kaziontor7/Doc-Appoint-Server)
-
-`Next.js` `Express.js` `MongoDB` `HeroUI` `Better Auth` `JWT`
-
----
-
-### 3. Qurbani Hat — Livestock E-Commerce Marketplace
-> A full-stack e-commerce marketplace for buying and selling sacrificial animals. Engineered dynamic filtering across multiple categories, secure user authentication, and an integrated checkout and order management system.
-
-🔗 [Live Demo](https://qurbani-hat-gamma.vercel.app) · [Code](https://github.com/kaziontor7/Qurbani-Hat)
-
-`Next.js` `MongoDB` `HeroUI` `Better Auth` `React Hook Form`
-
----
+<br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaziontor7&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kaziontor7&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&sideNums=e6edf3&currStreakNum=e6edf3&dates=8B949E" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaziontor7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%" alt="Footer" />
